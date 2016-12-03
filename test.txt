@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 this is for branch two
+=======
+this is for branch one agin
+this is for branch one
+>>>>>>> testOne
 I do not know why this will happen
 
 >>>>>>> testOne
