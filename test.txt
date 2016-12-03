@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-tthis is testing for merge
-=======
+I do not know why this will happen
+
+>>>>>>> testOne
 Insert for test merge
 >>>>>>> testOne
 
