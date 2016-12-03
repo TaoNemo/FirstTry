@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is testing for merge
+=======
+Insert for test merge
+>>>>>>> testOne
 
 This is for checkout master
 why I, the only reason is that 
