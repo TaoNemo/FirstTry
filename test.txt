@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 this is for branch two
-=======
 this is for branch one agin
 this is for branch one
->>>>>>> testOne
-I do not know why this will happen
-
->>>>>>> testOne
-Insert for test merge
->>>>>>> testOne
 
 This is for checkout master
 why I, the only reason is that 
